@@ -43,6 +43,10 @@ test_path = '/home/vihal_venkat/Desktop/ml_mastery/Flickr8k_text/Flickr_8k.testI
 
 from tqdm import tqdm
 
+
+un comment the below function when the project is fed with the new data 
+
+
 """
 # Extract features from each photo in the directory
 def extract_features(directory):
